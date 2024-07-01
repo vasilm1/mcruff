@@ -28,7 +28,7 @@ function Home() {
           <Navbar/>
           <div className="hello">
 
-              <img src={mcruff} className="mcruffin" data-aos="slide-right"/>
+              <img src={mcruff} className="mcruffin"/>
               <img src={bubble} className="bubble" data-aos="slide-right"/>
               <img src={check} className="check" data-aos="slide-right"/>
               <img src={the} className="the" data-aos="slide-right"/>
