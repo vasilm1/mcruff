@@ -22,12 +22,12 @@ function NavBar() {
             <div className="nav-right">
               <ul>
                 <li>
-                  <a href="https://twitter.com" className="menu-item">
+                  <a href="https://telegram.org" className="menu-item">
                     <img src="./telegram.png" alt="Telegram" className="nav-icon"/>
                   </a>
                 </li>
                 <li>
-                  <a href="https://telegram.org" className="menu-item">
+                  <a href="https://x.com" className="menu-item">
                     <img src="./twitter.png" alt="Twitter" className="nav-icon"/>
                   </a>
                 </li>

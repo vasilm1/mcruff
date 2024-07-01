@@ -65,6 +65,17 @@
   transition: all 0.3s ease;
 }
 
+.menu-item:hover::before {
+  width: 100%;
+  transform: translateX(0);
+  opacity: 1;
+}
+
+.menu-item.active::before {
+  opacity: 1;
+  transform: translateX(0);
+}
+
 .botton {
   text-decoration-line: none;
 }
