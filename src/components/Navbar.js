@@ -32,7 +32,7 @@ function NavBar() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://pump.fun/" className="botton">
+                  <a href="https://pump.fun/7ugJbeHeWZK81XViLzafQTjfyQZBbQHoFuAv8Sospump" className="botton">
                   <button className="contact-btn">
                     Buy Now
                   </button>
